@@ -8,4 +8,4 @@ Musician and Software Engineer
 
 ### Contact me
 
-[email@domain.com](mailto:alexwatkinson@mail.com)
+[alexwatkinson@mail.com](mailto:alexwatkinson@mail.com)
