@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Musicician and Software Engineer
+Musician and Software Engineer
 
 ### Contact me
 
