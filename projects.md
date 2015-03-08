@@ -6,7 +6,7 @@ permalink: /projects/
 
 ##MixRift
 
-![MixRift with Oculus]({{ site.baseurl }}/images/MixRiftScreen2.png = 250x "MixRift with Oculus")
+![MixRift with Oculus]({{ site.baseurl }}/images/MixRiftScreen2.png =250x "MixRift with Oculus")
 
 [Play web version](http://almerc.github.io/MixRift/)
 
@@ -14,7 +14,7 @@ permalink: /projects/
 
 ##Rockulus Rifft
 
-![Rockulus]({{ site.baseurl }}/images/RockulusRifftScreen.png = 250x "Rockulus with Oculus")
+![Rockulus]({{ site.baseurl }}/images/RockulusRifftScreen.png =250x "Rockulus with Oculus")
 
 [Play](http://almerc.github.io/RockulusRifft/)
 
