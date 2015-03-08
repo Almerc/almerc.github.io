@@ -32,6 +32,7 @@ function play_next_shuffled_song() {
     current_index++;
     widget.skip(track_number);
     console.log(track_number);
+    widget.pause();
 }
 
 function create_shuffled_indexes (num_songs) {
