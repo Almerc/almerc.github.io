@@ -16,5 +16,14 @@ layout: default
     </article>
   {% endfor %}
   
-  <script type="text/javascript" src="http://stratus.sc/stratus.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $stratus({
+      auto_play: true,
+      download: false,
+      links: 'https://soundcloud.com/digging-for-dinosaurs',
+      random: true
+    });
+  });
+</script>
 </div>
