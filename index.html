@@ -2,8 +2,27 @@
 layout: default
 ---
 
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<script>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+
+  
+</div>
+
+<body id="soundcloud_player">
+  <iframe src="https://w.soundcloud.com/player/?url=/digging-for-dinosaurs" width=100% height=100px></iframe>
+  <button id="button_sc_next">next</button>
+  <script>
 var widget = null;
 var song_indexes = new Array();
 var current_index = 0;
@@ -48,25 +67,4 @@ function shuffle(o){ //v1.0
     return o;
 };
 </script>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-
-  
-</div>
-
-<body id="soundcloud_player">
-  <iframe src="https://w.soundcloud.com/player/?url=/digging-for-dinosaurs" width=100% height=100px></iframe>
-  <button id="button_sc_next">next</button>
 </body>
