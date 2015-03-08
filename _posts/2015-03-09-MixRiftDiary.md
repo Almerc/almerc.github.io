@@ -21,7 +21,7 @@ title: MixRift Bullet Diary
 * Scoreboard. Gui canvas.
 * Import album art.WWW.
 
-##Day3:
+##Day 3:
 
 * Scoring.
 * Raycasting.
