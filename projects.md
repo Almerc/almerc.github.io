@@ -12,4 +12,3 @@ permalink: /projects/
 
 [Play web version](http://almerc.github.io/MixRift/)
 
-It is also hosted along with other MixRadio hack week project on [MixLabs](http://labs.mixrad.io/hacks/mixrift) 
