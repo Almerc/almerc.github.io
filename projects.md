@@ -10,7 +10,7 @@ permalink: /projects/
 
 [Play web version](http://almerc.github.io/MixRift/)
 
-[Project Github](http://github.com/Almerc/MixRift/)
+[Project Home](http://github.com/Almerc/MixRift/)
 
 ##Rockulus Rifft
 
@@ -18,7 +18,7 @@ permalink: /projects/
 
 [Play](http://almerc.github.io/RockulusRifft/)
 
-[Project Github](http://github.com/Almerc/RockulusRifft/)
+[Project Home](http://github.com/Almerc/RockulusRifft/)
 
 ##Digging for Dinosaurs
 
