@@ -3,6 +3,16 @@ layout: default
 ---
 
 <div class="posts">
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $stratus({
+      auto_play: true,
+      download: false,
+      links: 'https://soundcloud.com/digging-for-dinosaurs',
+      random: true
+    });
+  });
+</script>
   {% for post in site.posts %}
     <article class="post">
 
@@ -15,15 +25,4 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-  
-  <script type="text/javascript">
-  $(document).ready(function(){
-    $stratus({
-      auto_play: true,
-      download: false,
-      links: 'https://soundcloud.com/digging-for-dinosaurs',
-      random: true
-    });
-  });
-</script>
 </div>
