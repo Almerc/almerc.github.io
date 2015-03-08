@@ -14,7 +14,7 @@ permalink: /projects/
 
 ##Rockulus Rifft
 
-![Rockulus]({{ site.baseurl }}/images/RockulusRifftScreen.png)
+![Rockulus]({{ site.baseurl }}/images/RockulusScreenshot.png)
 
 [Play](http://almerc.github.io/RockulusRifft/)
 
