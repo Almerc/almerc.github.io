@@ -3,7 +3,7 @@ layout: post
 title: MixRift
 ---
 
-MixRadios hack week was again a total blast, I built my first [Unity](http://unity3d.com/) project called MixRift. An interactive guessing game based around exploring MixRadio mixes with the Oculus Rift.
+MixRadios hack week was again a total blast, I built my first project in [Unity](http://unity3d.com/) called MixRift. An interactive guessing game based around exploring MixRadio mixes with the Oculus Rift.
 
 Built with the Unity Engine the scripting written in Javascript. I used the the [MixRadio public API](http://dev.mixrad.io/doc/rest/) to gather 30 second clips and metadata from MixRadios pre-made mixes. It also includes Oculus Rift support using [Oculus Unity Plugin](https://developer.oculusvr.com/)  and kinect movement support using [Zigfu](http://zigfu.com/). Though this didn’t make the final version due to flakey connectivity, which I ran out of time to make stable .Oculus support worked out well and is available in the downloadable version.
 
