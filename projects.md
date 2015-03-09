@@ -12,7 +12,7 @@ permalink: /projects/
 
 [Project Home](http://github.com/Almerc/MixRift/)
 
-##Rockulus Rifft
+##Rockulus Rifft Maze
 
 ![Rockulus]({{ site.baseurl }}/images/RockulusScreenshot.png)
 
