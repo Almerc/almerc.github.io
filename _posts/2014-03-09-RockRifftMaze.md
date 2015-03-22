@@ -16,7 +16,7 @@ Highlights of this hack were using arrays to make a grid to build the level. Thi
 
 [Project Home](http://github.com/Almerc/RockulusRifft/)
 
-![RockRifft]({{ site.baseurl }}/images/RockRifft.png "RockRifft")
+![RockRifft]({{ site.baseurl }}/images/RockulusScreenshot.png "RockRifft")
 
 
 
