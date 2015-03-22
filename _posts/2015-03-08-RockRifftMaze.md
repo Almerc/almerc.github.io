@@ -7,7 +7,7 @@ Through the freedom of being asked 'what would you like to create this week at w
 
 The project was written in Javascript using mrdoobs excellent 3D Javascript library [threeJS](http://threejs.org/) to render WebGL 3D graphics in the browser. I hooked up the [MixRadio public API](http://dev.mixrad.io/doc/rest/) to pull music clips into the game.
 
-Highlights of this hack were using arrays to make a grid to build the level. This makes a useful and reusable visual representation for building out levels. Oculus Rift integration and reading rift data in real time, hey it wasn't laggy! And most excitingly ,writing JS in 4 days that results in 3D graphics in my browser at a decent framerate! 
+Highlights of the hack were using arrays to make a grid to build the level. This makes a useful and reusable visual representation for building out levels. Oculus Rift integration and reading rift data in real time to use for things like collision detection, hey it wasn't laggy! And most excitingly ,writing JS in 4 days that results in 3D graphics in my browser at a decent framerate! 
 
 
 [Play](http://almerc.github.io/RockulusRifft/)
