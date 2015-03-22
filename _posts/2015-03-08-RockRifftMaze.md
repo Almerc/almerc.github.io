@@ -3,7 +3,7 @@ layout: post
 title: Rockulus Rifft Project
 ---
 
-Through the freedom of being asked 'what would you like to create this week at work?' and recently acquiring an Oculus Rift DK. I hacked together a maze game to saunter around in whilst listening to music for MixRadios very first hack week. 
+Through the freedom of being asked 'what would you like to create this week at work?' and excitement of recently acquiring an Oculus Rift DK. I hacked together a maze game to saunter around in whilst listening to music for MixRadios very first hack week. 
 
 The project was written in Javascript using mrdoobs excellent 3D Javascript library [threeJS](http://threejs.org/) to render WebGL 3D graphics in the browser and setup for the rift camera using the threeJS OculusRiftEffect. I hooked up the [MixRadio public API](http://dev.mixrad.io/doc/rest/) to pull music clips into the game.
 
