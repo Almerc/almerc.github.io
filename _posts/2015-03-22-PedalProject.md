@@ -3,8 +3,13 @@ layout: post
 title: Soldering and Screaming
 ---
 
-I have been jamming with guitar stompboxes since my teens and became addicted to collecting and building a monster pedal board to experiment with effects, often resulting in a cacophony of psychadelic noise. It was a lot of fun and I spent an obscene amount of money in the process. Recently I came across this website [Fuzzdogs pedal parts](http://shop.pedalparts.co.uk/) and was interested to find out what goes into building effects pedals and improve my soldering skills in the process.  
+Guitar stompboxes were once an addiction of mine. To collect and build a monster pedal board to experiment and combine effects, often resulting in a cacophony of psychadelic noise. It was a lot of fun and I spent an obscene amount of money trying to build my dream setup for gigging with. Recently I came across this website for pedal kits [Fuzzdogs pedal parts](http://shop.pedalparts.co.uk/) and was interested to get inside the stompbox and learn a bit how they work , improve my soldering skills and hopefully end up with useable Tubescreamer to play with.  
 
+The [Tubescreamer](http://shop.pedalparts.co.uk/Tube_Screamer_TS808__TS9/p847124_7462506.aspx) kit I ordered is modeled on the legendary TS808 and TS9 which go for around £150 so if I could put one together for £35 (including the case) which got close to that sound it'd be a bargain and I'd be chuffed with myself. 
+
+Now I'm pretty much a beginner with electronics so I thought this was going to be pretty challenging and spotting how small the the pcb board is and how many components were in the kit was pretty daunting!  Fuzzdogs kit came with very clear downloadable [instructions](http://pedalparts.co.uk/docs/TubeScreamer2.pdf) with a circuit diagram and components labeled on the pcb. The only thing you need to work out is which resistor is which by using a [colour code chart](http://www.digikey.co.uk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band) OR if you're eyes are hurting from squinting for a long time whilst trying to make a judgment call on whether the ring is red or brown then you could also a multi-meter to double check.
+
+I also used a helping hands which I would highly recommend as this saved a lot of frustration when it came to steadily placing and soldering components on such a small board (50 x 37mm).
 
 ####Reading resistors and assembling components on the pcb
 
@@ -25,3 +30,4 @@ I have been jamming with guitar stompboxes since my teens and became addicted to
 ####A working Tubescreamer
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
+
