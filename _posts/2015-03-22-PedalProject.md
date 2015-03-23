@@ -9,7 +9,7 @@ The [Tubescreamer](http://shop.pedalparts.co.uk/Tube_Screamer_TS808__TS9/p847124
 
 I'm pretty much a beginner with soldering electronics so I thought this was going to be pretty challenging and spotting how small the the pcb board was (50 x 37mm!) and how many components there were was pretty daunting. Fuzzdogs kit came with very clear downloadable [instructions](http://pedalparts.co.uk/docs/TubeScreamer2.pdf) with an easy to follow circuit diagram and components labeled on the pcb. The only thing you really need to do is determine is which resistor is which. This can be done by using a [colour code chart](http://www.digikey.co.uk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band) OR if you're eyes are hurting from squinting for a long time trying to make a judgment call on whether the ring is red or brown then you could also use a multi-meter to double check.
 
-I would also highly recommend using a 'helping hands' as this saved a lot of frustration when it came to steadily placing and soldering components on such a small board and re-checking over any dodgy solder work.
+I would also highly recommend using a 'helping hands' to hold the pcb as this saved a lot of frustration when it came to  placing and soldering components and checking over any dodgy solder work.
 
 ####Reading resistors and assembling components on the pcb
 
