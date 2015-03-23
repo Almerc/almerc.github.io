@@ -3,7 +3,7 @@ layout: post
 title: Soldering and Screaming
 ---
 
-I have been jamming with guitar stompboxes since I started my first band in my teens and became addicted to collecting and building a monster pedal board to experiment with effects often resulting in a cacophony of psychadelic noise. It was a lot of fun and I spent an obscene amount of money in the process. Recently I came across this website [Fuzzdogs pedal parts](http://shop.pedalparts.co.uk/) and was interested to find out what goes into making effects pedals and improve my soldering skills.  
+I have been jamming with guitar stompboxes since I started my first band in my teens and became addicted to collecting and building a monster pedal board to experiment with effects often resulting in a cacophony of psychadelic noise. It was a lot of fun and I spent an obscene amount of money in the process. Recently I came across this website [Fuzzdogs pedal parts](http://shop.pedalparts.co.uk/) and was interested to find out what goes into building effects pedals and improve my soldering skills in the process.  
 
 
 ####Reading resistors and assembling components on the pcb
