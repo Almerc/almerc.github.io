@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rockulus Rifft Project
+title: Rockulus Rifft Maze
 ---
 
 Through the freedom of being asked 'what would you like to create this week at work?' and excitement of recently acquiring an Oculus Rift DK. I hacked together a maze game to saunter around in whilst listening to music for MixRadios very first hack week. 
