@@ -3,6 +3,7 @@ layout: post
 title: MixRift Bullet Diary
 ---
 
+A quick diary of MixRifts development during hackweek.
 
 ##Day 1:
 
