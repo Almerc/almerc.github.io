@@ -16,7 +16,7 @@ placing and soldering components and inspecting any dodgy solder work.
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal1.jpg "PedalAssemble")
 
-####Testing the circuit
+####Debugging the circuit
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal2.JPG "PedalAssemble2")
 
