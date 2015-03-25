@@ -3,7 +3,7 @@ layout: post
 title: Soldering and Screaming
 ---
 
-Guitar stompboxes were once an addiction of mine. Collecting and building a monster pedal board to experiment and combine effects, often resulting in a cacophony of psychadelic noise, was a lot of fun and I spent an obscene amount of money trying to build my dream setup for jamming on. Recently I came across a website for pedal kits [Fuzzdogs pedal parts](http://shop.pedalparts.co.uk/) and was interested to get inside the stompbox and learn a bit how they work , improve my soldering skills and hopefully end up with a useable Tubescreamer to play with.  
+Guitar stompboxes were once an addiction of mine. Collecting and building a monster pedal board to experiment and combine effects, often resulting in a cacophony of ridiculous noise, was a lot of fun and I spent an obscene amount of money trying to build my dream setup for jamming on. Recently I came across a website for pedal kits [Fuzzdogs pedal parts](http://shop.pedalparts.co.uk/) and was interested to get inside the stompbox and learn a bit how they work , improve my soldering skills and hopefully end up with a useable Tubescreamer to play with.  
 
 The [Tubescreamer](http://shop.pedalparts.co.uk/Tube_Screamer_TS808__TS9/p847124_7462506.aspx) kit I received is modeled on  the Ibanez TS808 and TS9 ,Stevie Ray Vaughan signature sound, which go for around £150. If I could put one together for £35 (including the case) and get close to that sound it'd be a bargain and the knowledge would be invaluable if I needed to repair or do a mod project in future.  
 
