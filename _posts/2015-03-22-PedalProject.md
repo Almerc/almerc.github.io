@@ -36,6 +36,6 @@ I had deduced the led circuit and power wiring was fine due to the led switching
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
-As part of the kit Fuzzdog had given some mod options including extra components for asymettrical clipping and space on the board for a more bass mod which I plan to do in future when I feel like I've exhausted the multitude of settings I have to play with already. I've also asked a mate for a design to go over the bright green sprayed case. I'll post the last pic of the final design when it's complete. 
+To top of the kit, Fuzzdog had given some further mod options including extra components for asymettrical clipping and space on the board for a 'more bass mod' which I plan to do in future when I feel like I've exhausted the settings I have. I've also asked a mate for a design to go over the bright green sprayed case. I'll post a pic of the final design when it's complete. 
 
-Do you have any tips or had experience making a similar kit?
+Do you have any tips or experience to share constructing a similar kit?
