@@ -21,7 +21,7 @@ Next came the moment of truth. Testing the circuit. For this Fuzzdog recommends 
 I had deduced the led circuit and power was fine due to the led switching on but by going back over the circuit/pcb diagram I found a couple of reasons why I was so fuzzless.
 
 1. I had missed a very small jumper wire over the points labeled 'accent' to complete the circuit and 
-2. 2. A transistor was the wrong way round. Rookie mistake on my part but important lessons learned about transistors and gave me a chance to practice some desoldering technique. Another vital tool helped me with this ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump).
+2. A transistor was the wrong way round. Rookie mistake on my part but important lessons learned about transistors and gave me a chance to practice some desoldering technique. Another vital tool helped me with this ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump).
 
 ####Debugging the circuit
 
