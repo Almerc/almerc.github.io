@@ -16,9 +16,9 @@ placing and soldering components and inspecting any dodgy solder work.
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal1.jpg "PedalAssemble")
 
-Next came the moment of truth. Testing the circuit. For this The Fuzzdog recommends wiring up the battery and the input and output jacks before getting carried away with all the switch,knobs etc. This turned out to be incredibly sage advice as the led light lit up but no fuzzy goodness came out of the pedal. Time to debug.
+Next came the moment of truth. Testing the circuit. For this Fuzzdog recommends wiring up the battery and the input and output jacks before getting carried away with all the switch,knobs etc. This turned out to be incredibly sage advice as the led light lit up but no fuzzy goodness came out of the pedal. Time to debug.
 
-I had deduced the led circuit and power wiring was fine due to the led switching on but by going back over the circuit/pcb diagram I found a couple of reasons why I was so fuzzless. 1. I had missed a very small jumper wire over the points labeled 'accent' to complete the circuit and 2. A transistor was the wrong way round. Rookie mistake on my part but important lessons learned about transistors and gave me a chance to practice some desoldering technique. Another indespensable tool helped me with this ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump).
+I had deduced the led circuit and power wiring was fine due to the led switching on but by going back over the circuit/pcb diagram I found a couple of reasons why I was so fuzzless. 1. I had missed a very small jumper wire over the points labeled 'accent' to complete the circuit and 2. A transistor was the wrong way round. Rookie mistake on my part but important lessons learned about transistors and gave me a chance to practice some desoldering technique. Another essential tool helped me with this ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump).
 
 ####Debugging the circuit
 
@@ -36,3 +36,6 @@ I had deduced the led circuit and power wiring was fine due to the led switching
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
+As part of the kit Fuzzdog had given some mod options including extra components for asymettrical clipping and space on the board for a more bass mod which I plan to do in future when I feel like I've exhausted the multitude of settings I have to play with already. I've also asked a mate for a design to go over the bright green sprayed case. I'll post the last pic of the final design when it's complete. 
+
+Do you have any tips or had experience making a similar kit?
