@@ -36,6 +36,6 @@ I had deduced the led circuit and power wiring was fine due to the led switching
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
-To top of the kit, Fuzzdog had given some further mod options including extra components for asymettrical clipping and space on the board for a 'more bass mod' which I plan to do in future when I feel like I've exhausted the settings I have. I've also asked a mate for a design to go over the bright green sprayed case. I'll post a pic of the final design when it's complete. 
+And there it is looking like a pedal and giving a great clone sound of the TS808 with a great crunchy fuzz which allows all the tone to still slip through and is dead quiet when not in use. Pleased. To top off the kit, Fuzzdog had given some further mod options including extra components for asymettrical clipping and space on the board for a 'more bass mod' which I plan to do in future when I feel like I've exhausted the settings I have. I've also asked a mate for a design to go over the bright green sprayed case. I'll post a pic when it's complete. 
 
-Do you have any experiences building a similar pedal kit or useful soldering tips? Please share.
+Do you have any experiences building a similar pedal kit or useful soldering tips? 
