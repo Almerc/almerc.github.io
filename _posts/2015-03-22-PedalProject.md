@@ -41,6 +41,6 @@ Rookie mistake on my part but important lessons learned about transistors and ga
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
-And there it is, looking like a pedal and giving a clone sound of the TS808 with a great crunchy fuzz and all the tone clarity without muddying and is dead quiet when not in use. I'm pleased. To top off the kit, Fuzzdog had given some further mod options including extra components for asymettrical clipping and space on the board for a 'more bass mod' which I intend to do in future when I've exhausted the settings I have. I've also asked a mate for a design to go over the bright green sprayed case to customise my pedal. I'll post a pic when it's complete. 
+And there it is, looking like a pedal and giving a clone sound of the TS808 with a great crunchy fuzz and all the tone clarity without muddying and is dead quiet when not in use. I'm pleased. To top off the kit, Fuzzdog had given some further mod options including extra components for asymettrical clipping and space on the board for a 'more bass mod' which I intend to do in future when I've exhausted the settings I have. I added the silver knobs and asked a mate for a design to go over the bright green sprayed case to customise my pedal. I'll post a pic when it's complete. 
 
 Do you have any experiences building a similar pedal kit or useful soldering tips to share? 
