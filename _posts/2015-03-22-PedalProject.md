@@ -16,7 +16,7 @@ placing and soldering components and inspecting any dodgy solder work.
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal1.jpg "PedalAssemble")
 
-Next came the moment of truth. Testing the circuit. For this Fuzzdog recommends wiring up the battery and the input/output jacks before getting carried away with all the switch,knobs etc. This turned out to be incredibly sage advice as the led light lit up but no fuzzy goodness came out of the pedal. Onto some debugging then.
+Next came the moment of truth. Testing the circuit. For this Fuzzdog recommends wiring up the battery and the input/output jacks before getting carried away with all the switch,knobs etc. This turned out to be incredibly sage advice as the led lit up but no fuzzy goodness came out of the pedal. Onto some debugging then.
 
 I had deduced the led circuit and power was fine due to the led switching on but by going back over the circuit/pcb diagram I found a couple of reasons why I was so fuzzless.
 
