@@ -30,7 +30,7 @@ A rookie mistake on my part but important lessons learned about transistors and 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal2.JPG "PedalAssemble2")
 
 
-####Wiring the switch and knobs and arranging in the case
+####Wiring the switch, knobs and trying to arrange neatly in the case
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal4.JPG "PedalAssemble4")
 
