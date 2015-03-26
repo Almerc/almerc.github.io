@@ -34,10 +34,12 @@ A rookie mistake on my part but important lessons learned about transistors and 
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal4.JPG "PedalAssemble4")
 
+And there it is, looking like a pedal and giving a clone sound of the TS808 with a stellar crunchy overdrive, all the tone clarity without muddying and is dead quiet when not in use. I'm pleased with the result. To top off the kit, Fuzzdog had given some further mod options including extra components for asymmetrical clipping and space on the board for a 'more bass mod' which I intend to do in future when I've exhausted the settings I have. 
+
+I sprayed the case bright green , added the silver knobs and have a design on the way to customise the finish more. I'll post a pic when it's complete. Do you have any experiences building a pedal or useful soldering tips to share?
+
 ####A working Tubescreamer
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
-And there it is, looking like a pedal and giving a clone sound of the TS808 with a stellar crunchy overdrive, all the tone clarity without muddying and is dead quiet when not in use. I'm pleased with the result. To top off the kit, Fuzzdog had given some further mod options including extra components for asymmetrical clipping and space on the board for a 'more bass mod' which I intend to do in future when I've exhausted the settings I have. 
-
-I sprayed the case bright green , added the silver knobs and have a design on the way to customise the finish more. I'll post a pic when it's complete. Do you have any experiences building a pedal or useful soldering tips to share? 
+ 
