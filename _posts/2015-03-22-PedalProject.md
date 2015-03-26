@@ -29,11 +29,8 @@ A rookie mistake on my part but important lessons were learned about transistors
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal2.JPG "PedalAssemble2")
 
-####Wiring the switch and dc power
 
-![PedalAssemble]({{ site.baseurl }}/images/pedal3.JPG "PedalAssemble3")
-
-####Wiring and re-wiring the knobs to fit in the case
+####Wiring the switch and knobs and arranging in the case
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal4.JPG "PedalAssemble4")
 
