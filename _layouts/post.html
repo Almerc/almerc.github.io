@@ -5,12 +5,6 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   
-<span class='st_sharethis' displayText='ShareThis'></span>
-<span class='st_facebook' displayText='Facebook'></span>
-<span class='st_twitter' displayText='Tweet'></span>
-<span class='st_linkedin' displayText='LinkedIn'></span>
-<span class='st_email' displayText='Email'></span>
-
   <div class="entry">
     {{ content }}
   </div>
@@ -18,6 +12,11 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+<span class='st_sharethis' displayText='ShareThis'></span>
+<span class='st_facebook' displayText='Facebook'></span>
+<span class='st_twitter' displayText='Tweet'></span>
+<span class='st_linkedin' displayText='LinkedIn'></span>
+<span class='st_email' displayText='Email'></span>
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
