@@ -23,7 +23,7 @@ I had deduced the LED circuit and power was fine due it lighting up but by going
 1. I had missed a very small jumper wire over the points labeled 'accent'. 
 2. A transistor was the wrong way round. 
 
-A rookie mistake on my part but important lessons learned and it gave me a chance to practice some desoldering technique. Another vital tool reduced the frustration for this task ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump). I haven't tried desoldering braid but the pump worked a treat for sucking out solder.
+A rookie mistake on my part but important lessons learned and it gave me a chance to practice some desoldering. Another vital tool reduced the frustration for this task ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump). I haven't tried desoldering braid but the pump worked a treat for removing solder.
 
 ####Debugging the circuit
 
