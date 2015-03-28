@@ -16,19 +16,22 @@ placing and soldering components and inspecting any dodgy solder work.
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal1.jpg "PedalAssemble")
 
-Next came the moment of truth. Testing the circuit. For this Fuzzdog recommends wiring up the battery and the input/output jacks before getting carried away with all the switch,knobs etc. This turned out to be incredibly sage advice as the LED lit up but no fuzzy goodness came out of the pedal. Onto some debugging then.
+Next came the moment of truth. Testing the circuit. For this Fuzzdog recommends wiring up the battery and the input/output jacks to test before getting carried away with all the switch,knobs etc. This turned out to be incredibly sage advice as the LED lit up but no fuzzy goodness came out of the pedal. Onto some debugging then.
 
-I had deduced the LED circuit and power was fine due it lighting up but by going back over the circuit and pcb diagram I found a couple of reasons why I was so fuzzless.
+I had deduced the LED circuit and power was fine due it lighting up but going back over the circuit and pcb diagram I found a couple of reasons why I was so fuzzless.
 
 1. I had missed a very small jumper wire over the points labeled 'accent'. 
 2. A transistor was the wrong way round. 
 
-A rookie mistake on my part but important lessons learned and it gave me a chance to practice some desoldering. Another vital tool reduced the frustration for this task ,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump). I haven't tried desoldering braid but the pump made light work of removing solder.
+A rookie mistake on my part but lesson learned and it gave me a chance to practice some desoldering. Another vital tool reduced the frustration for this task too,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump). 
 
 ####Debugging the circuit
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal2.JPG "PedalAssemble2")
 
+Happy with a working circuit. The final part of the puzzle is to wire the switch, dc power input and the tone,volume and distortion pots all included along with another diagram to wire the switch up authentically to only turn on with a jack inserted.
+
+The wiring, as I learned, is best done after arranging all the parts in the case to keep it neat and make the most of the tight space available. I needed to redo some wiring, clip the pot edges and flatten the capacitors to ensure everything would fit correctly.  
 
 ####Wiring the switch, knobs and trying to arrange neatly in the case
 
