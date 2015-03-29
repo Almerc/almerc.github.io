@@ -31,7 +31,7 @@ A rookie mistake on my part but lesson learned and it gave me a chance to practi
 
 The final part of the puzzle was to wire the switch, dc power input and the tone,volume and distortion pots all included with another diagram instructing on how to authentically wire the switch to only turn on with a jack inserted.
 
-The wiring, as I learned and you will see, is best done after arranging all the parts in the case to keep it neat and make the most of what little space is available. I needed to redo some wiring, clip the pot edges and flatten the capacitors just so everything would fit correctly. My wiring is still a little messy.
+The wiring, as I learned you will see, is best done after arranging all the parts in the case to keep it neat and make the most of what little space is available. I needed to redo some wiring, clip the pot edges and flatten the capacitors just so everything would fit correctly. My wiring isn't pretty but it works.
 
 ####Wiring the switch, knobs and trying to arrange neatly in the case
 
