@@ -41,7 +41,7 @@ And there it is, looking like a pedal and giving a clone sound of the TS808 with
 
 I sprayed the case bright green , added the silver knobs and have a design on the way to customise the finish. I'll post a pic when it's complete. Do you have any experiences building a pedal or useful soldering tips to share?
 
-####A working Tubescreamer
+####A Rockin' Tubescreamer!
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
