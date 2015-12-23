@@ -3,7 +3,7 @@ layout: post
 title: Music for Fleye
 ---
 
-I got the opportunity to produce a piece for Fleyes http://gofleye.com/ kickstarter video. You can hear it here .. https://www.youtube.com/watch?v=ShNS-WLGVLo
+I got the opportunity to produce a piece for [Fleyes](http://gofleye.com/) kickstarter video . Watch and hear it [here](https://www.youtube.com/watch?v=ShNS-WLGVLo)
 
 
 ####The Brief
