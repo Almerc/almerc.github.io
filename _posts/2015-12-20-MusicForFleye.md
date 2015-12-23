@@ -3,8 +3,7 @@ layout: post
 title: Music for Fleye
 ---
 
-I got the opportunity to produce a piece for [Fleyes](http://gofleye.com/) kickstarter video . Watch and hear it [here](https://www.youtube.com/watch?v=ShNS-WLGVLo)
-
+Flying Robots are here! I got the opportunity to produce a piece for [Fleye](http://gofleye.com/)  .Watch and hear it on their [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo)
 
 ####The Brief
 
@@ -27,7 +26,7 @@ etc), while keeping it fast paced (but not too much).
 * I would say a ~120 bpm house beat with funky piano/bass/synth lines. Old
 Daft Punk (discovery, homework) seems like an interesting inspiration.
 
-####Production
+####Idea
 
 I went for a 125 bpm tempo with a steady but funky electronica house
 style in D major. I had ideas for 4 separate sections, beginning with something quite sparse
