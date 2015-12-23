@@ -3,7 +3,7 @@ layout: post
 title: Music for Fleye
 ---
 
-Flying Robots are here! I a piece for [Fleye](http://gofleye.com/)  .Watch and hear it on their [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo)
+Flying Robots are here! I a piece for [Fleye](http://gofleye.com/)  .Watch  their [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo) to hear it.
 
 ####The Brief
 
