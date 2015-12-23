@@ -3,7 +3,7 @@ layout: post
 title: Music for Fleye
 ---
 
-Flying Robots are here! I got the opportunity to produce a piece for [Fleye](http://gofleye.com/)  .Watch and hear it on their [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo)
+Flying Robots are here! I a piece for [Fleye](http://gofleye.com/)  .Watch and hear it on their [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo)
 
 ####The Brief
 
@@ -39,6 +39,6 @@ motion.
 I wanted the piece to progressively evolve elements or introduce new parts as Fleye is discovering and learning from the world. 
 These are the shots of fleye taking off from a field where the arrangement becomes a more spacious ambient breakdown section introducing piano chords and a full and much fatter breakbeat section for flying inside the urban warehouse.
 
-The very final section is a culmination of all the elements.
+The very final section being a culmination of all the elements.
 
  
