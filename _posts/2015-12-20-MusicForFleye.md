@@ -7,6 +7,8 @@ Flying Robots are here! I made a piece for [Fleye](http://gofleye.com/) . Watch 
 
 ####The Brief
 
+![Fleye](http://theawesomer.com/photos/2015/12/fleye_drone_t.jpg "Fleye")
+
 * Our video should last ~3 minutes.
 
 * we plan to have 20~30 secs intro with Fleye discovering the world, as
