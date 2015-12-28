@@ -3,7 +3,7 @@ layout: post
 title: Music for Fleye
 ---
 
-Flying Robots are here! I made a piece for [Fleye](http://gofleye.com/)  .Watch  their [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo) to hear it and if you are excited for the prospective of a future full of these show your support and back them on [kickstarter](https://www.kickstarter.com/projects/gofleye/fleye-your-personal-flying-robot)
+Flying Robots are here! I made a piece for [Fleye](http://gofleye.com/) . Watch [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo) to hear it and if you are excited for the prospective of a future full of these show your support and back them on [kickstarter](https://www.kickstarter.com/projects/gofleye/fleye-your-personal-flying-robot).
 
 ####The Brief
 
@@ -42,6 +42,6 @@ These are the shots of fleye taking off from a field where the arrangement becom
 
 The very final section being a culmination of all the elements and bringing it to a close.
 
-I'll add more details on the process soon...
+I'll add details on the process soon...
 
  
