@@ -5,7 +5,7 @@ title: Music for Fleye
 
 Flying Robots are here! I made a piece for [Fleye](http://gofleye.com/) . Watch [kickstarter video](https://www.youtube.com/watch?v=ShNS-WLGVLo) to hear it and if you are excited for the prospective of a future full of these show your support and back them on [kickstarter](https://www.kickstarter.com/projects/gofleye/fleye-your-personal-flying-robot).
 
-####The Brief
+#### The Brief
 
 ![Fleye](http://theawesomer.com/photos/2015/12/fleye_drone_t.jpg "Fleye")
 
@@ -28,7 +28,7 @@ etc), while keeping it fast paced (but not too much).
 * I would say a ~120 bpm house beat with funky piano/bass/synth lines. Old
 Daft Punk (discovery, homework) seems like an interesting inspiration.
 
-####Idea
+#### Idea
 
 Making a 125 bpm tempo with a steady but funky electronica house
 style. I had ideas for 4 separate sections, beginning with something quite clean, sleek and functional to go with Fleyes design .
