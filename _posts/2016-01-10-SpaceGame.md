@@ -3,9 +3,9 @@ layout: post
 title: SpaceGame in Unity
 ---
 
-The beginnings of a 2D space adventure. SpaceGame (working title).
+A 2D space adventure is born. Ready to get space crazy? 
 
 
-Character assets for Lewis , Robert (the robot) and the ship coming to life with idle animations.
+Meet Lewis and Robert (the robot) character assets and ship made by ![FingerPaint](http://whoisfingerpaint.blogspot.com) coming to life with idle animations. I've also scripted a flickering light effect for the torch. To be picked up soon.
 
 ![LewisIdle]({{ site.baseurl }}/images/SpaceGame/SpaceGame1.gif "LewisIdle")
