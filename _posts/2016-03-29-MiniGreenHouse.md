@@ -3,6 +3,10 @@ layout: post
 title: DIY mini Greenhouse from an old TV stand
 ---
 
+![Greenhouse1]({{ site.baseurl }}/images/Greenhouse/DSC_0608.jpg "GStart")
+
+![Greenhouse2]({{ site.baseurl }}/images/Greenhouse/DSC_0627.jpg "GFinish")
+
 ### Materials
 
 * 1 Old unloved wooden tv stand. Free..
@@ -15,3 +19,10 @@ title: DIY mini Greenhouse from an old TV stand
 * Outdoor oil wood treatment.
 * Poly-Adhesive £8.
 
+### Tools
+
+* Workbench
+* Drill
+* Sander
+* Jigsaw
+* Screwdriver
