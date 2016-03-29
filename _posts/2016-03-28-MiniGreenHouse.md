@@ -35,7 +35,7 @@ The screws were rusted and stuck into the wooden frame. As I wanted to reuse the
 
 #### Cutting the plastic sheets
 
-This material is quite brittle and takes a bit of care when cutting. I used a jigsaw with a fine blade, applied a bit of pressure and made sure the jigsaw was moving consistently when cutting. Even with this it still chipped and cracked a few times along the edges but these are hidden behind the panels or glued using poly-adhesive. 
+This material is quite brittle and takes a bit of care when cutting. I used a jigsaw with a fine blade, applied a bit of pressure and made sure the jigsaw was moving consistently when cutting. Even with this much care it still chipped and cracked a few times along the edges but these are hidden behind the panels or glued back using poly-adhesive. 
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0613.JPG "G2")
 
