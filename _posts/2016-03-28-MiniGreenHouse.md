@@ -53,7 +53,7 @@ I used another plastic sheet of the same thickness, 2mm, but cut slightly wider 
 
 #### Finishing touches
 
-To make sure the unit is ready for the rain, and storm Katie forecast on the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. To protect from the protruding screws whilst tending to plants, I sliced some wine bottle corks and placed them over the sharp ends. 
+To make sure the unit is ready for the rain, and storm Katie forecast over the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. To protect from the protruding screws whilst tending to plants, I sliced some wine bottle corks and placed them over the sharp ends. 
 
 Now to play the waiting game for these delicious vegetables..
 
