@@ -12,7 +12,7 @@ I'm fairly new to soldering electronics so spotting how small the the pcb board 
 I highly recommend getting a [Helping Hands with a magnifying glass](http://www.amazon.co.uk/dp/B00NY8YBAA?psc=1) to hold the pcb still whilst you do the work. This will save a lot of frustration when
 placing and soldering components and inspecting any dodgy solder work.
 
-####Reading resistors and soldering components on the pcb
+#### Reading resistors and soldering components on the pcb
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal1.jpg "PedalAssemble")
 
@@ -25,7 +25,7 @@ I had deduced the LED circuit and power was fine due it lighting up but going ba
 
 A rookie mistake on my part but lesson learned and it gave me a chance to practice some desoldering. Another vital tool reduced the frustration for this task too,the [desoldering pump](http://en.wikipedia.org/wiki/Desoldering#Desoldering_pump). 
 
-####Debugging the circuit
+#### Debugging the circuit
 
 ![PedalAssemble]({{ site.baseurl }}/images/pedal2.JPG "PedalAssemble2")
 
@@ -33,7 +33,7 @@ The final part of the puzzle was to wire the switch, dc power input and the tone
 
 The wiring, as I learned, is best done after arranging all the parts in the case to keep it neat and make the most of what little space is available. I had to redo some wiring, clip the pot edges and flatten the capacitors just so everything would fit and leave space for a battery too. My wiring isn't pretty but it works and everything made it in the case.
 
-####Wiring the switch, knobs and trying to arrange neatly in the case
+#### Wiring the switch, knobs and trying to arrange neatly in the case
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal4.JPG "PedalAssemble4")
 
@@ -41,7 +41,7 @@ And there it is, looking like a pedal and giving a clone sound of the TS808 with
 
 I sprayed the case bright green , added the silver knobs and have a design on the way to customise the finish. I'll post a pic when it's complete. Do you have any experiences building a pedal or useful soldering tips to share?
 
-####Ready to TubeScream the house down
+#### Ready to TubeScream the house down
 
 ![PedalAssemble]({{ site.baseurl }}/images/Pedal5.JPG "PedalAssemble5")
 
