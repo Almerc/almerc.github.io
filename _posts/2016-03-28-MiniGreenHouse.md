@@ -7,7 +7,7 @@ Salvaging an old TV stand and turning it into a useful little greenhouse.
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0608.JPG "GStart")
 
-![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0627.jpg "GFinish")
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0627.JPG "GFinish")
 
 ### Materials
 
