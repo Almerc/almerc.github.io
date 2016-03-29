@@ -55,7 +55,7 @@ I used another plastic sheet of the same thickness, 2mm, but cut slightly wider 
 
 #### Finishing touches
 
-To make sure the unit is ready for the rain, and storm Katie forecast on the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. There is also the issue of many protruding screws on the inside of the box. To protect the user from  some nasty scratches whilst tending to their plants, I sliced some wine bottle corks and screwed them over the ends. 
+To make sure the unit is ready for the rain, and storm Katie forecast on the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. To protect the user receiving nasty scratches from the protruding screws whilst tending to plants, I sliced some wine bottle corks and screwed them over the ends. 
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0623.JPG "G5")
 
