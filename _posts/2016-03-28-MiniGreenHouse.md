@@ -5,7 +5,7 @@ title: DIY Mini Greenhouse
 
 Salvaging an old TV stand and turning it into a useful little greenhouse.
 
-![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0608.JPG "GStart")
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0608.JPG "GStart" =1920x1080)
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0627.JPG "GFinish")
 
@@ -18,7 +18,7 @@ Salvaging an old TV stand and turning it into a useful little greenhouse.
 * Handle. £2
 * Outdoor hinges £2
 * Wine bottle corks.
-* Outdoor oil wood treatment.
+* Outdoor wood treatment oils.
 * Poly-Adhesive £8.
 
 ### Tools
