@@ -3,7 +3,7 @@ layout: post
 title: DIY Mini Greenhouse
 ---
 
-Salvaging an old TV stand and turning it into a useful little greenhouse.
+Giving an old TV stand a second life as a mini greenhouse.
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0608.JPG "GStart" )
 
@@ -28,3 +28,13 @@ Salvaging an old TV stand and turning it into a useful little greenhouse.
 * Sander
 * Jigsaw
 * Screwdriver
+
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0611.JPG "G1")
+
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0613.JPG "G2")
+
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0614.JPG "G3")
+
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0622.JPG "G4")
+
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0623.JPG "G5")
