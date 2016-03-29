@@ -3,7 +3,7 @@ layout: post
 title: DIY Mini Greenhouse
 ---
 
-Giving an old TV stand a second life by turning it into a mini greenhouse.
+Giving an old TV stand a second life by turning it into a mini greenhouse. Perfect project for a long Easter weekend.
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0608.JPG "GStart" )
 
