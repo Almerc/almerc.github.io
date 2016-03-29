@@ -29,7 +29,7 @@ Giving an old TV stand a second life as a mini greenhouse because what else are 
 
 #### Gutting the shelves
 
-The screws were rusted and stuck into the wooden frame. As I wanted to reuse the sides to strengthen the greenhouse frame, I needed to keep the wood in tact. I instead removed the shelves from the inside using a hand saw. 
+The screws were rusted and stuck into the wooden frame. As I wanted to reuse the sides to strengthen the greenhouse frame, I needed to keep the wood intact. I instead removed the shelves from the inside using a hand saw. 
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0611.JPG "G1")
 
@@ -41,7 +41,7 @@ This material is quite brittle and takes a bit of care when cutting. I used a ji
 
 #### Attaching the panels
 
-Again this requires more fun with plastic sheets , this time using a drill . It is well worth getting an old scrap of wood to place underneath the sheet whilst drilling through it. Again applying a bit of pressure , holding your breath and hoping for the best. Once the holes are drilled the sheet was screwed to the frame. I cut some other pieces of wood from some old ikea shelving to create a more flush and level bottom shelf. I attached the side panels directly to the front and back using the adhesive. This seemed to hold ok but if I find this fails from strong winds I'll strengthen by attaching to the bottom of the frame as well.
+Again this requires more fun with plastic sheets , this time using a drill . It is well worth getting an old scrap of wood to place underneath the sheet whilst drilling through it. Again applying a bit of pressure , holding your breath and hoping for the best. Once the holes are drilled the sheet was screwed to the frame. I cut some other pieces of wood from some old ikea shelving to create a more flush and level bottom shelf. I attached the side panels directly to the front and back using adhesive. This seems to hold ok but if I find this fails from strong winds, I'll strengthen by attaching to the bottom of the frame as well.
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0614.JPG "G3")
 
@@ -53,7 +53,9 @@ I used another plastic sheet of the same thickness, 2mm, but cut slightly wider 
 
 #### Finishing touches
 
-To make sure the unit is ready for the rain, and storm Katie forecast on the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. To protect the user receiving nasty scratches from the protruding screws whilst tending to plants, I sliced some wine bottle corks and screwed them over the ends. 
+To make sure the unit is ready for the rain, and storm Katie forecast on the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. To protect the user receiving nasty scratches from the protruding screws whilst tending to plants, I sliced some wine bottle corks and placed them over the sharp ends. 
+
+Now to play the waiting game for these delicious vegetables..
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0627.JPG "GFinish")
 
