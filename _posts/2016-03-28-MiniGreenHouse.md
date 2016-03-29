@@ -1,11 +1,13 @@
 ---
 layout: post
-title: DIY mini Greenhouse from an old TV stand
+title: DIY Mini Greenhouse
 ---
 
-![Greenhouse1]({{ site.baseurl }}/images/Greenhouse/DSC_0608.jpg "GStart")
+Salvaging an old TV stand to turn it into a useful mini greenhouse.
 
-![Greenhouse2]({{ site.baseurl }}/images/Greenhouse/DSC_0627.jpg "GFinish")
+![Greenhouse1]({{ site.baseurl }}/images/GreenHouse/DSC_0608.jpg "GStart")
+
+![Greenhouse2]({{ site.baseurl }}/images/GreenHouse/DSC_0627.jpg "GFinish")
 
 ### Materials
 
