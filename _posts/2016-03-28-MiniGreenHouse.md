@@ -3,11 +3,9 @@ layout: post
 title: DIY Mini Greenhouse
 ---
 
-Giving an old TV stand a second life as a mini greenhouse.
+Giving an old TV stand a second life as a mini greenhouse because what else are you going to do on a long Easter weekend.
 
 ![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0608.JPG "GStart" )
-
-![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0627.JPG "GFinish")
 
 ### Materials
 
@@ -57,5 +55,5 @@ I used another plastic sheet of the same thickness, 2mm, but cut slightly wider 
 
 To make sure the unit is ready for the rain, and storm Katie forecast on the weekend, I treated all the pieces of wood with a few layers of an outdoor oil based treatement. I may also paint the top of the frame at a later date. To protect the user receiving nasty scratches from the protruding screws whilst tending to plants, I sliced some wine bottle corks and screwed them over the ends. 
 
-![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0623.JPG "G5")
+![Greenhouse]({{ site.baseurl }}/images/GreenHouse/DSC_0627.JPG "GFinish")
 
